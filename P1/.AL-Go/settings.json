@@ -1,10 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/05c7a11b273fc725e6f2eaf485e6c7a24faa5e50/.Modules/settings.schema.json",
+  "bcptTestFolders": [],
   "country": "us",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "hw_",
+    "cus"
   ],
-  "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "appFolders": [],
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/05c7a11b273fc725e6f2eaf485e6c7a24faa5e50/.Modules/settings.schema.json"
 }
