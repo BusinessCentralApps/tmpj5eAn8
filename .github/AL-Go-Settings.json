@@ -1,0 +1,10 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": false,
+  "type": "AppSource App",
+  "runs-on": "ubuntu-latest",
+  "doNotPublishApps": false,
+  "shell": "pwsh",
+  "templateUrl": "https://github.com/businesscentralapps/tmpn5coPv-AppSource@main",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/05c7a11b273fc725e6f2eaf485e6c7a24faa5e50/.Modules/settings.schema.json"
+}
